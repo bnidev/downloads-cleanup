@@ -1,0 +1,27 @@
+{
+  "path": "Your-Path-Here",
+  "sort_misc": true,
+  "misc_folder": "Misc",
+  "sort_unpacked": true,
+  "unpacked_folder": "Unpacked",
+  "folders": {
+    "Audio": ["mp3", "wav"],
+    "Video": ["mp4", "mpg", "mpeg", "avi", "mov", "mkv"],
+    "Images": ["jpg", "jpeg", "png", "bmp", "svg", "psd", "gif"],
+    "Documents": [
+      "txt",
+      "pdf",
+      "doc",
+      "docx",
+      "ppt",
+      "pptx",
+      "ods",
+      "xls",
+      "xlsx",
+      "csv"
+    ],
+    "Applications": ["exe", "iso"],
+    "Compressed": ["zip", "rar", "7z", "tar"],
+    "Coding": ["css", "html", "php", "py", "cs", "dll", "au3"]
+  }
+}
